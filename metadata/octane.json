@@ -1,0 +1,6 @@
+{
+  "name": "Octane",
+  "description": "Rocket League Battle Car",
+  "image": "ipfs://QmQNeXhuZ9jpkQqfHJnBNMh6ubCXKvtzHB75BbWnx5DybB",
+  "attributes": [{ "trait_type": "speed", "value": 90 }]
+}

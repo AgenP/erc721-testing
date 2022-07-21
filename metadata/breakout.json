@@ -1,0 +1,6 @@
+{
+  "name": "Breakout",
+  "description": "Rocket League Battle Car",
+  "image": "ipfs://QmX2dWoJTAogtASA9MHAkKPUbWzjgZC77AmDfkjBgpnRjm",
+  "attributes": [{ "trait_type": "speed", "value": 75 }]
+}

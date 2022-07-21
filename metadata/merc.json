@@ -1,0 +1,6 @@
+{
+  "name": "merc",
+  "description": "Rocket League Battle Car",
+  "image": "ipfs://QmXKRuSHX9iTZbXCkxkH9wn8uGZzcorxDf828pKpUXdDsA",
+  "attributes": [{ "trait_type": "speed", "value": 55 }]
+}
