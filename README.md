@@ -12,4 +12,4 @@ Deployed Rocket league cars as testnet ERC721's and viewed them on (testnet) Ope
 - Test the create metadata script
 - Learn how to store metadata on chain
   ...
-# erc721-testing
+
